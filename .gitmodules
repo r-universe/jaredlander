@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RepoGenerator"]
+	path = RepoGenerator
+	url = https://github.com/jaredlander/repogenerator
+	shallow = true
+[submodule "resumer"]
+	path = resumer
+	url = https://github.com/jaredlander/resumer
+	shallow = true
+[submodule "useful"]
+	path = useful
+	url = https://github.com/jaredlander/useful
+	shallow = true
