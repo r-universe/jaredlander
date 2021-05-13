@@ -1,0 +1,14 @@
+[
+  {
+    "package": "RepoGenerator",
+    "oncran": true
+  },
+  {
+    "package": "resumer",
+    "oncran": true
+  },
+  {
+    "package": "useful",
+    "oncran": true
+  }
+]

@@ -8,16 +8,13 @@
 	url = https://github.com/jaredlander/repogenerator
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/jaredlander/resumer
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "useful"]
 	path = useful
 	url = https://github.com/jaredlander/useful
 	shallow = true
 	registered = true
-	oncran = true
