@@ -1,5 +1,9 @@
 [
   {
+    "package": "coefplot",
+    "oncran": true
+  },
+  {
     "package": "RepoGenerator",
     "oncran": true
   },
