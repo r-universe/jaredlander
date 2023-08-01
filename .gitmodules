@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "coefplot"]
-	path = coefplot
-	url = https://github.com/jaredlander/coefplot
 [submodule "RepoGenerator"]
 	path = RepoGenerator
 	url = https://github.com/jaredlander/repogenerator
+[submodule "coefplot"]
+	path = coefplot
+	url = https://github.com/jaredlander/coefplot
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/jaredlander/resumer
